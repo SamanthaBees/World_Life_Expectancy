@@ -1,1 +1,2 @@
-# World_Life_Expectancy
+# World_Life_Expectancy – SQL Data Cleaning & EDA
+This mini-project focuses on cleaning and exploring a global life expectancy dataset using SQL. Key steps included removing duplicates, filling missing values, validating country development status, and standardizing numerical formats. After cleaning the data, I performed exploratory data analysis (EDA) to uncover trends such as average life expectancy over time, the relationship between GDP and life expectancy, and comparisons across country development status.
